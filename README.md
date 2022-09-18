@@ -4,11 +4,13 @@
 
 ## Overview
 
-This is a LaTeX template for the Thesis implemented as part of the [Artificial Intelligence Masters Program](https://msc-ai.iit.demokritos.gr), organised by [Department of Digital Systems, University of Piraeus](https://www.unipi.gr/unipi/en/psif-home.html)  and the [Institute of Informatics and Telecommunications, NCSR Demokritos](https://www.iit.demokritos.gr/el/).
+This is a LaTeX template for the Masters Thesis of the [Artificial Intelligence Masters Program](https://msc-ai.iit.demokritos.gr), organised by [Department of Digital Systems, University of Piraeus](https://www.unipi.gr/unipi/en/psif-home.html)  and the [Institute of Informatics and Telecommunications, NCSR Demokritos](https://www.iit.demokritos.gr/el/).
 
 ![](./templateCover.png)
 
-**Note!** This template is custom made based on the [doc](https://msc-ai.iit.demokritos.gr/sites/default/files/protypo_syggrafis_diplomatikis_ergasias__0.doc) file provided by the program. It is not officialy provided and hence may slightly differ from the origianal.
+**Note!** This template is custom made based on the [doc](https://msc-ai.iit.demokritos.gr/sites/default/files/protypo_syggrafis_diplomatikis_ergasias__0.doc) file provided by the program. 
+
+It is not officialy provided and hence may slightly differ from the original.
 
 
 
